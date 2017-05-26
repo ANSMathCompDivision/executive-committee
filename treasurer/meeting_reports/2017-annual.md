@@ -1,14 +1,10 @@
-############################
-2017 Annual Financial Report
-############################
+# 2017 Annual Financial Report
 
 This report is submitted to the Mathematics and Computation Division
 Executive Committee at the 2017 ANS Annual Meeting.
 
-MCD Operating Funds
-*******************
+## MCD Operating Funds
 
-+---------------------------------------+-------------+-------------+
 |                                       | Actual      | Budget      |
 |                                       | (3/31/2017) | (3/31/2017) |
 +=======================================+=============+=============+
