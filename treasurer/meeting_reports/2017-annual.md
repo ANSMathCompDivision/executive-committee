@@ -5,6 +5,13 @@ Executive Committee at the 2017 ANS Annual Meeting.
 
 ## MCD Operating Funds
 
+<table>
+  <th>
+	<td/>
+	<td>Actual<br/>(3/31/2017)</td>
+	<td>Budget<br/>(3/31/2017)</td>
+</th>
+</table>
 |                                       | Actual      | Budget      |
 |                                       | (3/31/2017) | (3/31/2017) |
 +=======================================+=============+=============+
